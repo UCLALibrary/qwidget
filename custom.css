@@ -1,11 +1,11 @@
 /*Sets the border color for the entire Qwidget*/
 #qpchatwidget{
-    border-color: #3283BE;
+    border-color: #1e4b87;
 }
 
 /*Sets the background color for the Qwidget name in the title*/
 .qp_institution_name_bar{
-    background-color: #3283BE;
+    background-color: #1e4b87;
 }
 
 /*Sets the font color for the Qwidget name in the title*/
@@ -15,7 +15,7 @@
 
 /*Sets the background color for the popout icon*/
 .qp_popout_icon{
-    background-color: #3283BE;
+    background-color: #1e4b87;
 }
 
 /*Sets the image for the popout icon*/
@@ -25,14 +25,14 @@
 
 /*Sets the background color for icons bar*/
 .qp_icons_bar{
-    border-bottom: 1px solid #3283BE;
-    background-color: #D7D9DA;
+    border-bottom: 1px solid #1e4b87;
+    background-color: #EFF3F4;
 }
 
 /*Sets the background and border color for help icon*/
 .qp_help_icon{
-    border-right: 1px solid #3283BE;
-    background-color: #D7D9DA;
+    border-right: 1px solid #1e4b87;
+    background-color: #EFF3F4;
 }
 
 /*Sets the image for the help icon in the icons bar section*/
@@ -42,7 +42,7 @@
 
 /*Sets the background color for help icon in the Qwidget Name title bar section*/
 .qp_help_icon_title_bar{
-    background-color: #3283BE;
+    background-color: #1e4b87;
 }
 /*Sets the help icon image in the Qwidget Name title bar section*/
 .qp_widget_help_image_title_bar{
@@ -51,7 +51,7 @@
 
 /*Sets the background color for the email icon*/
 .qp_email_icon{
-    background-color: #D7D9DA;
+    background-color: #EFF3F4;
 }
 
 /*Sets the email icon image*/
@@ -61,8 +61,8 @@
 
 /*Sets the background color for the end chat icon*/
 .qp_end_chat_icon{
-    border-left: 1px solid #3283BE;
-    background-color: #D7D9DA;
+    border-left: 1px solid #1e4b87;
+    background-color: #EFF3F4;
 }
 
 /*Sets the end chat image*/
@@ -78,7 +78,7 @@
 
 /*Sets the background color and font color for the text the patron types*/
 .qp_widget_message_echo{
-    background-color:#3283BE;
+    background-color:#1e4b87;
     color: white;
 }
 
@@ -93,27 +93,27 @@
 .qp_nudge_message_text_default{
     color: black;
 }
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
 /*Sets the background color for the nudge message*/
 .qp_nudge_message{
-    background-color: #D7D9DA;
-    border: 1px solid #D7D9DA;
+    background-color: #EFF3F4;
+    border: 1px solid #EFF3F4;
 }
 
 /*Sets the background color and font color for 'Librarian is typing..' message */
 .qp_librarian_typing_message{
     background-color: white;
-    color: #3283BE;
+    color: #1e4b87;
 }
 
 /*Sets the background color for the container which surrounds the input box where the patron types the question*/
 .qp_question_input_area{
-    background-color: #D7D9DA;
+    background-color: #EFF3F4;
 }
 
 /*Sets the border color for container containing the input box*/
 .qp_question_input_container{
-    border-color: #3283BE;
+    border-color: #1e4b87;
 }
 
 /*Sets the background color and font color for the input box where the patron types the question*/
@@ -124,7 +124,7 @@
 
 /*Sets the background color for the send button arrow*/
 .qp_send_button{
-    background-color: #D7D9DA;
+    background-color: #EFF3F4;
 }
 
 /*Sets the send button arrow image*/
@@ -156,13 +156,13 @@
 /*Sets the background color gradient, font color and border color for the Send button*/
 .qp_initial_send_button{
     color: black;
-    border: 1px solid #3283BE;
-    background-image: -webkit-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -moz-linear-gradient(center top , #EFF3F4, #3283BE);
-    background-image: -ms-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -o-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: linear-gradient(top, #EFF3F4, #3283BE);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#3283BE');
+    border: 1px solid #1e4b87;
+    background-image: -webkit-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -moz-linear-gradient(center top , #EFF3F4, #c1daeb);
+    background-image: -ms-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -o-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: linear-gradient(top, #EFF3F4, #c1daeb);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#c1daeb');
 }
 
 /*----------End session overlay---------*/
@@ -175,20 +175,20 @@
 
 /*Sets the color for the border*/
 .qp_end_session_overlay_content {
-    border-bottom: solid 1px #3283BE;
+    border-bottom: solid 1px #1e4b87;
     color: gray;
 }
 
 /*Sets the background color gradient, font color and border color for the Email session transcripts button*/
 .qp_end_session_email_transcripts{
     color: black;
-    border: 1px solid #3283BE;
-    background-image: -webkit-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -moz-linear-gradient(center top , #EFF3F4, #3283BE);
-    background-image: -ms-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -o-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: linear-gradient(top, #EFF3F4, #3283BE);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#3283BE');
+    border: 1px solid #1e4b87;
+    background-image: -webkit-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -moz-linear-gradient(center top , #EFF3F4, #c1daeb);
+    background-image: -ms-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -o-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: linear-gradient(top, #EFF3F4, #c1daeb);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#c1daeb');
 }
 
 /*Sets the email sent confirmation image*/
@@ -199,25 +199,25 @@
 /*Sets the background color gradient, font color and border color for the Fill out a chat survey button*/
 .qp_end_session_survey{
     color: black;
-    border: 1px solid #3283BE;
-    background-image: -webkit-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -moz-linear-gradient(center top , #EFF3F4, #3283BE);
-    background-image: -ms-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -o-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: linear-gradient(top, #EFF3F4, #3283BE);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#3283BE');
+    border: 1px solid #1e4b87;
+    background-image: -webkit-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -moz-linear-gradient(center top , #EFF3F4, #c1daeb);
+    background-image: -ms-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -o-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: linear-gradient(top, #EFF3F4, #c1daeb);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#c1daeb');
 }
 
 /*Sets the background color gradient, font color and border color for the OK button*/
 .qp_end_session_ok_button{
     color: black;
-    border: 1px solid #3283BE;
-    background-image: -webkit-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -moz-linear-gradient(center top , #EFF3F4, #3283BE);
-    background-image: -ms-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -o-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: linear-gradient(top, #EFF3F4, #3283BE);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#3283BE');
+    border: 1px solid #1e4b87;
+    background-image: -webkit-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -moz-linear-gradient(center top , #EFF3F4, #c1daeb);
+    background-image: -ms-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -o-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: linear-gradient(top, #EFF3F4, #c1daeb);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#c1daeb');
 }
 
 /*----------Offline overlay---------*/
@@ -248,13 +248,13 @@
 /*Sets the background color gradient, font color and border color for the Send button*/
 .qp_offline_initial_send_button{
     color: black;
-    border: 1px solid #3283BE;
-    background-image: -webkit-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -moz-linear-gradient(center top , #EFF3F4, #3283BE);
-    background-image: -ms-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -o-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: linear-gradient(top, #EFF3F4, #3283BE);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#3283BE');
+    border: 1px solid #1e4b87;
+    background-image: -webkit-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -moz-linear-gradient(center top , #EFF3F4, #c1daeb);
+    background-image: -ms-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -o-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: linear-gradient(top, #EFF3F4, #c1daeb);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#c1daeb');
 }
 
 /*Sets the font color for the email sent confirmation message*/
@@ -279,11 +279,11 @@
 /*Sets the background color gradient, font color and border color for the buttons on this screen*/
 .qp_email_form_btn{
     color: black;
-    border: 1px solid #3283BE;
-    background-image: -webkit-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -moz-linear-gradient(center top , #EFF3F4, #3283BE);
-    background-image: -ms-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: -o-linear-gradient(top, #EFF3F4, #3283BE);
-    background-image: linear-gradient(top, #EFF3F4, #3283BE);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#3283BE');
+    border: 1px solid #1e4b87;
+    background-image: -webkit-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -moz-linear-gradient(center top , #EFF3F4, #c1daeb);
+    background-image: -ms-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: -o-linear-gradient(top, #EFF3F4, #c1daeb);
+    background-image: linear-gradient(top, #EFF3F4, #c1daeb);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EFF3F4', endColorstr='#c1daeb');
 }
